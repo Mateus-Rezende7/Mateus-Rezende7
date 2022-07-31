@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Rezende de Oliveira</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">A developer from Brazil😁</h3>
 
 - 📫 How to reach me **mateusrezendedeoliveira@gmail.com**
 
